@@ -1,0 +1,29 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: hotpink;
+    font-size: 50px;
+}
+
+h2 {
+    color: hotpink;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+    color: hotpink;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+    color: rgb(21, 218, 136);
+    text-align: center;
+    font-size: 25px;
+}
+
+a:hover {
+    color: rgb(3, 121, 121);
+}
+
+body {
+    color: aqua;
+}
